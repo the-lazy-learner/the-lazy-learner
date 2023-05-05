@@ -5,6 +5,8 @@ Here are some numbers thanks to the developers and contributors of [github-readm
 ![Github stats](https://github-readme-stats.vercel.app/api?username=the-lazy-learner&theme=transparent)
 -----------------------
 
+### Recent Activity 
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
 2. 💪 Opened PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
