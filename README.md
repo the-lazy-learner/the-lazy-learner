@@ -16,7 +16,7 @@ Here are some numbers thanks to the developers and contributors of [github-readm
 6. 💪 Opened PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
 7. 🎉 Merged PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
 8. 💪 Opened PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
-9. ❗️ Opened issue [#10000](https://github.com/GoogleChrome/web.dev/issues/10000) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+9. ❗ Opened issue [#10000](https://github.com/GoogleChrome/web.dev/issues/10000) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
 10. 💪 Opened PR [#6589](https://github.com/EddieHubCommunity/LinkFree/pull/6589) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
