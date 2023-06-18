@@ -8,16 +8,16 @@ Here are some numbers thanks to the developers and contributors of [github-readm
 ### Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/the-lazy-learner/the-lazy-learner/pull/2) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
-2. 💪 Opened PR [#2](https://github.com/the-lazy-learner/the-lazy-learner/pull/2) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
-3. 🎉 Merged PR [#1](https://github.com/the-lazy-learner/the-lazy-learner/pull/1) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
-4. 💪 Opened PR [#1](https://github.com/the-lazy-learner/the-lazy-learner/pull/1) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
-5. 🎉 Merged PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
-6. 💪 Opened PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
-7. 🎉 Merged PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
-8. 💪 Opened PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
-9. ❗ Opened issue [#10000](https://github.com/GoogleChrome/web.dev/issues/10000) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
-10. 💪 Opened PR [#6589](https://github.com/EddieHubCommunity/LinkFree/pull/6589) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗ Opened issue [#23](https://github.com/JoshuaKGoldberg/tidelift-me-up/issues/23) in [JoshuaKGoldberg/tidelift-me-up](https://github.com/JoshuaKGoldberg/tidelift-me-up)
+2. 🎉 Merged PR [#2](https://github.com/the-lazy-learner/the-lazy-learner/pull/2) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
+3. 💪 Opened PR [#2](https://github.com/the-lazy-learner/the-lazy-learner/pull/2) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
+4. 🎉 Merged PR [#1](https://github.com/the-lazy-learner/the-lazy-learner/pull/1) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
+5. 💪 Opened PR [#1](https://github.com/the-lazy-learner/the-lazy-learner/pull/1) in [the-lazy-learner/the-lazy-learner](https://github.com/the-lazy-learner/the-lazy-learner)
+6. 🎉 Merged PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
+7. 💪 Opened PR [#2](https://github.com/the-lazy-learner/r-for-data-science/pull/2) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
+8. 🎉 Merged PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
+9. 💪 Opened PR [#1](https://github.com/the-lazy-learner/r-for-data-science/pull/1) in [the-lazy-learner/r-for-data-science](https://github.com/the-lazy-learner/r-for-data-science)
+10. ❗ Opened issue [#10000](https://github.com/GoogleChrome/web.dev/issues/10000) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
 <!--END_SECTION:activity-->
 
 -----------------------
